@@ -1,7 +1,8 @@
 # Sorting Algorithm Visulization
 This program allows used to visulize various sorting algorithms including merge sort, insertion sort and selection sort.
 # Demo
-Here is a demo for `selection sort` in my program.
+Here is a demo for **Selection Sort** in my program.
+
 
 # Motivation.
 I was deeply intrigued by the various videos on Algorithm visulization on Youtube when I learned the sorting algorithm, as they provides an intuitive way to understand those rather complex algorithms. \
