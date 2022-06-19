@@ -13,9 +13,9 @@ Other than the library, it used various features of OOP, the classes and instanc
 The usage of classes and instances make the code more readable, as it provides an neat way to represent various information for certain button and shapes.
 # Set-Up 
 Firstly, clone the project using \
-``git clone https://github.com/SG1705211/Sorting-Algorithm-Visualization``
+``git clone https://github.com/SG1705211/Sorting-Algorithm-Visualization``\
 Then, install the pygame library using \
-``pip install pygame``
+``pip install pygame``\
 Lastly, in the root directory, simply run the main.py by \
 ``python main.py``
 # The program
