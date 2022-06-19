@@ -20,7 +20,7 @@ Then, install the pygame library using
 ```bash
 pip install pygame
 ```
-Lastly, in the root directory, simply run the main.py by \
+Lastly, in the root directory, simply run the main.py by
 ```bash
 python main.py
 ```
