@@ -12,15 +12,15 @@ The program was built mainly using  **pygame** library.\
 Other than the library, it used various features of OOP, the classes and instances in specific.\
 The usage of classes and instances make the code more readable, as it provides an neat way to represent various information for certain button and shapes.
 # Set-Up 
-Firstly, clone the project using
+Firstly, clone the project
 ```bash
 git clone https://github.com/SG1705211/Sorting-Algorithm-Visualization
 ```
-Then, install the pygame library using
+Then, install the pygame library
 ```bash
 pip install pygame
 ```
-Lastly, in the root directory, simply run the main.py by
+Lastly, in the root directory, simply run the main.py
 ```bash
 python main.py
 ```
